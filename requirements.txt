@@ -1,9 +1,7 @@
 streamlit
 pandas
-scikit-learn==1.2.2
 numpy==1.26.4
 matplotlib
 seaborn
 cloudpickle
-
-
+scikit-learn==1.4.2
